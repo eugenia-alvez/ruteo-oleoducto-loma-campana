@@ -1,0 +1,29 @@
+{
+  "optimizada": {
+    "longitud_km": 12.23,
+    "desnivel_subida_m": 55.9,
+    "desnivel_bajada_m": 35.2,
+    "pendiente_max_pct": 4.7,
+    "pendiente_media_pct": 0.9,
+    "pct_paralelo_a_infraestructura": 96.6,
+    "m_en_zona_edificada": 0.0,
+    "cruces_de_rutas_principales": 2,
+    "cruces_de_cursos_de_agua": 0,
+    "m_sobre_cursos_de_agua": 0.0,
+    "costo_acumulado": 309.0
+  },
+  "linea_recta": {
+    "longitud_km": 11.77,
+    "desnivel_subida_m": 55.8,
+    "desnivel_bajada_m": 35.1,
+    "pendiente_max_pct": 5.3,
+    "pendiente_media_pct": 1.0,
+    "pct_paralelo_a_infraestructura": 51.9,
+    "m_en_zona_edificada": 627.0,
+    "cruces_de_rutas_principales": 6,
+    "cruces_de_cursos_de_agua": 0,
+    "m_sobre_cursos_de_agua": 0.0,
+    "costo_acumulado": 18904.0
+  },
+  "ahorro_costo_pct": 98.4
+}
